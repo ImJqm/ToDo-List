@@ -1,9 +1,3 @@
-1)Learn Java
-2)Finish Elden Ring DLC Character
-3)Start Riding Bike to school
-4)Go to the Gym
-5)Replay Sekiro
-6)Replay Wynncraft
-7)Play Demon's Souls
-8)Fix this todolist
-9)Finish God of War DLC
+1)Task 1
+2)Task 2
+3)Task 3
